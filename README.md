@@ -1,6 +1,6 @@
 ## demo app - developing with Docker
 
-This demo app shows a simple user profile app set up using 
+Este aplicativo de demonstração mostra um aplicativo de perfil de usuário simples configurado usando:
 - index.html with pure js and css styles
 - nodejs backend with express module
 - mongodb for data storage
